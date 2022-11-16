@@ -1,5 +1,5 @@
 # landing-page
-css landing page
+css landing page Project
 This is the The Landing Page project from The Odin Project.
 It is to demonstrate the skills learned in the CSS section using flexboxes and other CSS elements.
 I recreated the webpage from an image provided by The Odin Project along with the formatting information.
